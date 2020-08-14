@@ -16,9 +16,7 @@
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
-        "spatie/laravel-permission": "^3.12",
-        "yajra/laravel-datatables-html": "^4.0",
-        "yajra/laravel-datatables-oracle": "~9.0"
+        "spatie/laravel-permission": "^3.12"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.3",

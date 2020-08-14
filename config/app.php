@@ -187,11 +187,6 @@ return [
         //validacion personalizada
         //App\Providers\CustomValidationRulesProvider::class,
 
-        Yajra\DataTables\DataTablesServiceProvider::class,
-
-        Yajra\DataTables\DataTablesServiceProvider::class,
-        Yajra\DataTables\HtmlServiceProvider::class,
-
     ],
 
     /*
@@ -250,7 +245,6 @@ return [
         //debuger
         'Debugbar' => Barryvdh\Debugbar\Facade::class,
 
-        'DataTables' => Yajra\DataTables\Facades\DataTables::class,
 
     ],
 

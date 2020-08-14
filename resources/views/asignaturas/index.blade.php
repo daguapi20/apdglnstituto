@@ -7,7 +7,7 @@
     <div class="fade-in">
         @include('partials.success')
                
-            <div class="row">
+        <div class="row">
             <div class="col-md-12">
                 <div class="card card-accent-primary shadow-lg">
                     <div class="card-header bg-primary  d-flex justify-content-between aling-items-end ">
@@ -78,10 +78,8 @@
                     <nav class="d-flex justify-content-end">
                         {{ $asignaturas->links() }}
                     </nav>
-                
             </div>
-
-           </div>
+        </div>
     </div>    
 </div> 
 </main>   
